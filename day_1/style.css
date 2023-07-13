@@ -1,0 +1,90 @@
+.business-container{
+    border-radius: 30px;
+    margin: 50px auto;
+    padding: 100px 40px 120px;
+    background-color:  rgb(6, 220, 134);
+    font-family: sans-serif;
+    font-size: large;
+    width: 30%;
+}
+
+.p-tag{
+    font-size: 75%;
+}
+
+.btn{
+    border: none;
+    color: black;
+    background-color: white;
+    padding: 14px 30px;
+    border-radius: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.profile{
+    width: 20%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    margin: auto;
+    border: 1px solid rgb(197, 194, 194);
+    padding: 10px;
+}
+
+.profile-img{
+   width: 50px;
+   height: 50px;
+   border-radius: 50%;
+   padding: 20px;
+}
+
+.profile-btn{
+    border: 1px solid rgb(197, 194, 194);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    width: 20%;
+    padding: 10px;
+    margin: auto;
+}
+
+#profile-btn{
+    border: none;
+    color: rgb(26, 13, 171);
+    background-color: white;
+    font-family: 'Open Sans',sans-serif;
+    text-align: left;
+}
+
+#view-details{
+    color: blue;
+    font-weight: 100;
+    font-family: 'Open Sans',sans-serif;
+    height: 36px;
+    background-color: white;
+    border-color: black;
+    padding-left:24px ;
+    padding-right: 24px;
+    border-radius:3px ;
+
+}
+
+
+.bg-img{
+    width: 100%;
+}
+
+.google-heading{
+    font-family: 'Open Sans',sans-serif;
+    color: black;
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    font-weight: lighter;
+}
+
+.google-p{
+    font-family: Arial, sans-serif;
+    color: rgb(77, 81, 86);
+    font-size: 14px;
+}
